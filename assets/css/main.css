@@ -3694,7 +3694,7 @@ input, select, textarea {
 }
 
 .great-idea-github {
-	padding-top: 100px;
+	margin: auto 0;
 	color: gray;
 }
 

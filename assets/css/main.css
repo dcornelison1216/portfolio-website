@@ -3687,3 +3687,27 @@ input, select, textarea {
 			}
 
 	}
+
+/* My styling changes below: */
+.sublist {
+	list-style-type: circle;
+}
+
+.great-idea-github {
+	padding-top: 100px;
+	color: gray;
+}
+
+.not-yet-necessary {
+	display: none;
+}
+
+.attribution {
+	font-size: .79em;
+}
+
+.send-message-button:hover {
+	background: white;
+	color: #2e2b37 !important;
+	border-color: #2e2b37 !important;
+}

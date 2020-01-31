@@ -3699,7 +3699,7 @@ input, select, textarea {
 }
 
 .not-yet-necessary {
-	display: none;
+	display: none !important;
 }
 
 .attribution {
@@ -3710,4 +3710,11 @@ input, select, textarea {
 	background: white;
 	color: #2e2b37 !important;
 	border-color: #2e2b37 !important;
+}
+
+.great-idea-screenshot {
+	width: 50%;
+}
+.great-idea-screenshot img {
+	width: 100%;
 }
